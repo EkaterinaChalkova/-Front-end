@@ -1,0 +1,26 @@
+.header {
+  height: 50px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+.users {
+  height: 350px;
+  width: 200px;
+  overflow: auto;
+  direction: ltr;
+}
+.chat {
+  height: 350px;
+  width: 100%;
+  overflow: auto;
+  direction: ltr;
+}
+.footer {
+  height: 100px;
+  text-align: center;
+}
